@@ -249,9 +249,7 @@ If a dashboard preview is added at
 `Screenshot 2026-11-11 191501.png`, it can be displayed here:
 
 ``` markdown
-## 📊 Power BI Dashboard Preview
-
-![Trip Data Analysis Dashboard](images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/kunal2852007-bot/Trip_data_analysis_2025/blob/main/Screenshot%202026-11-11%20191501.png)
 ```
 
 ## 11. Limitations & Notes
