@@ -250,7 +250,7 @@ If a dashboard preview is added at
 
 ``` markdown
 <p align="center">
-  <img src="./Screenshot%202026-11-11%20191501.png"
+  <img src="./Trip_data_analysis_2025/blob/main/Screenshot%202026-11-11%20191501.png"
        alt="Trip Data Analysis Dashboard"
        width="100%">
 </p>
