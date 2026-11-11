@@ -246,10 +246,10 @@ The repository may include the following deliverables:
     and findings.
 
 If a dashboard preview is added at
-`03_PowerBI/Dashboard_Screenshot.png`, it can be displayed here:
+`Screenshot 2026-11-11 191501.png`, it can be displayed here:
 
 ``` markdown
-![Power BI Dashboard](03_PowerBI/Dashboard_Screenshot.png)
+![Screenshot 2026-11-11 191501.png)
 ```
 
 ## 11. Limitations & Notes
