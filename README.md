@@ -249,7 +249,7 @@ If a dashboard preview is added at
 `Screenshot 2026-11-11 191501.png`, it can be displayed here:
 
 ``` markdown
-![Dashboard Preview](https://github.com/kunal2852007-bot/Trip_data_analysis_2025/blob/main/Screenshot%202026-11-11%20191501.png)
+<img src="https://github.com/kunal2852007-bot/Trip_data_analysis_2025/blob/main/Screenshot%202026-11-11%20191501.png" alt="Trip Data Analysis Dashboard" width="100%">
 ```
 
 ## 11. Limitations & Notes
