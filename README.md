@@ -249,7 +249,7 @@ If a dashboard preview is added at
 `Screenshot 2026-11-11 191501.png`, it can be displayed here:
 
 ``` markdown
-![Screenshot 2026-11-11 191501.png)
+[Screenshot 2026-11-11 191501.png)
 ```
 
 ## 11. Limitations & Notes
