@@ -22,6 +22,8 @@ visualisation, and a Power BI dashboard. The findings are communicated
 through a PowerPoint presentation and a separate professional project
 report.
 
+**Data source : https://divvy-tripdata.s3.amazonaws.com/index.html**
+
 ## 2. Business Problem
 
 The bike-share business wants to understand the relationship between
